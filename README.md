@@ -1,13 +1,13 @@
-Ejemplo Básico Vistas II (Views)
+Funcionalidad a una calculadora
 ========================
 
-Esta aplicacion es un ejemplo basico de vistas en Android, llevado a cabo dentro del contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
+Esta aplicacion esta añadida la funcion de hacer procesos matematicos.
 
 
 Requerimientos
 ------------
 
-  * Android Studio 2.2.2
+  * Android Studio 2.2.3
   * Gradle 2.2.2
   * minSdkVersion 15
 
@@ -16,7 +16,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/Gusn8/StudyJam_II_Views_II.git
+>     $ git clone https://github.com/jalaraticona/StudyJam_Tarea_3.git
 
 Dentro de Android Studio:
 
@@ -34,4 +34,4 @@ Captura
     </center>
 </div>
 <br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
+<a href="http://www.miramicodigo.com" target="_blank">JOJOJO</a>
